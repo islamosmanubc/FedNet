@@ -1,0 +1,3 @@
+cross-silo federated learning for domain generalization in foreground segmentation
+continual knowledge distilation for domain generalization using pretrained models
+self-supervised knowledge distilation for multi-task learning
